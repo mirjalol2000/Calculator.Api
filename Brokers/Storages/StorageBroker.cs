@@ -1,7 +1,10 @@
 ﻿using Calculator.Api.Models.Users;
 using EFxceptions;
 using Microsoft.EntityFrameworkCore;
+<<<<<<< HEAD
 using System.Threading.Tasks;
+=======
+>>>>>>> 18bde343e770de1c858f36429d5089abe2f4b058
 
 namespace Calculator.Api.Brokers.Storages
 {

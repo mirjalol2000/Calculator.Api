@@ -1,7 +1,10 @@
 ﻿using Calculator.Api.Models.Users;
 using Calculator.Api.Services.Foundations.Users;
 using Microsoft.AspNetCore.Mvc;
+<<<<<<< HEAD
 using System.Threading.Tasks;
+=======
+>>>>>>> 18bde343e770de1c858f36429d5089abe2f4b058
 
 namespace Calculator.Api.Controllers
 {
